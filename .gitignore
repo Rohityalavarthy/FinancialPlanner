@@ -3,3 +3,4 @@ memory.json
 __pycache__/
 *.pyc
 .claude/
+transcripts/
